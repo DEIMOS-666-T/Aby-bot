@@ -1,4 +1,4 @@
-console.log('✅ STARTING...')
+console.log('✅ STARTING ABHI BOT -DURL DIOS...')
 
 import { join, dirname } from 'path'
 import { createRequire } from 'module';
@@ -21,7 +21,7 @@ say('ABHISHEK-SER', {
   align: 'center',
   gradient: ['red', 'magenta']
 })
-say(`'${name}' By @ABHISHEK SURESH._`, {
+say(`'${name}' By @ABHISHEK SURESH AND DURL._`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
